@@ -20,7 +20,7 @@ import com.vanguard.retail.myprivateequity.webservice.service.InvestorService;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.doThrow;
 import static org.mockito.Mockito.when;
-
+import static org.junit.Assert.*;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @Category(JUnitTestRule.class)
